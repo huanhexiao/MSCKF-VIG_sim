@@ -35,7 +35,7 @@ MSCKF-VIG (https://github.com/huanhexiao/MSCKF-VIG) will be available as soon as
 
 ```shell
 
-git clone https://gitlab.com/huanhexiao/MSCKF-VIG
+git clone https://github.com/huanhexiao/MSCKF-VIG_sim
 
 mkdir build && cd build 
 
